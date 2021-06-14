@@ -8,9 +8,9 @@
 # возможна.
 
 def f(x, y, p):
-    if x + y >= 77 and p == 2:
+    if x+y >= 77 and p == 2:
         return True
-    elif x + y < 77 and p == 2:
+    elif x+y < 77 and p == 2:
         return False
     return f(x+1, y, p+1) or f(x+y*2, y, p+1) or f(x, y+1, p+1) or f(x, y+x*2, p+1)
 
