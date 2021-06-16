@@ -12,8 +12,6 @@ def f(N, K, p):
             return f(N - 4, K - 4, p + 1) or f(N / 2, N / 2, p + 1)
         else:
             return f(N - 4, K - 4, p + 1)
-    else:
-        return False
 
 
 for K in range(1, 100):
