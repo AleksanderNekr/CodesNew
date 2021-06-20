@@ -1,4 +1,4 @@
-f = open('27-58b.txt')
+f = open('27-58ex.txt')
 n = int(f.readline())
 
 k = [0, 0, 0]
