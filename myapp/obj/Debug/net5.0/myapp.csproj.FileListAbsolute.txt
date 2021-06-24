@@ -1,0 +1,16 @@
+C:\Users\aleks\Codes\myapp\bin\Debug\net5.0\myapp.exe
+C:\Users\aleks\Codes\myapp\bin\Debug\net5.0\myapp.deps.json
+C:\Users\aleks\Codes\myapp\bin\Debug\net5.0\myapp.runtimeconfig.json
+C:\Users\aleks\Codes\myapp\bin\Debug\net5.0\myapp.runtimeconfig.dev.json
+C:\Users\aleks\Codes\myapp\bin\Debug\net5.0\myapp.dll
+C:\Users\aleks\Codes\myapp\bin\Debug\net5.0\ref\myapp.dll
+C:\Users\aleks\Codes\myapp\bin\Debug\net5.0\myapp.pdb
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.csproj.AssemblyReference.cache
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.AssemblyInfoInputs.cache
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.AssemblyInfo.cs
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.dll
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\ref\myapp.dll
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.pdb
+C:\Users\aleks\Codes\myapp\obj\Debug\net5.0\myapp.genruntimeconfig.cache
