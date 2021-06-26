@@ -11,6 +11,7 @@ namespace myapp
             var a = 23;
             Console.WriteLine(a + 4);
             Console.WriteLine("Hello my...");
+            Console.WriteLine(a + 43);
         }
     }
 }
