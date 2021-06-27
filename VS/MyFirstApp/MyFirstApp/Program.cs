@@ -12,6 +12,9 @@ namespace MyFirstApp
             var sumVal = values.Aggregate(0, (sum, value) => sum + value);
             Console.WriteLine(sumVal);
             Array.ForEach(values, x => Console.Write($"{x} "));
+            var valLst = values.ToList();
+            Console.WriteLine();
+            valLst.ForEach(x => Console.Write($"{x} "));
         }
     }
 }
